@@ -1,0 +1,10 @@
+@import url(https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css);
+::selection {
+    background: #3a3a3a;
+    background-color: rgba(58, 58, 58, 0.4);
+}
+
+::-moz-selection {
+    background: #3a3a3a;
+    background-color: rgba(58, 58, 58, 0.4);
+}
